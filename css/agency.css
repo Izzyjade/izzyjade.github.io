@@ -28,7 +28,8 @@ Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 	section h3.section-subheading{font-size:16px;font-family:"Droid Serif","Helvetica Neue",
 	Helvetica,Arial,sans-serif;text-transform:none;font-style:italic;font-weight:400;margin-bottom:75px}
 	@media (min-width:768px){section{padding:150px 0}}.service-heading{margin:15px 0;text-transform:none}
-	#portfolio .portfolio-item{margin:0 0 15px;right:0}#portfolio .portfolio-item 
+	#portfolio .portfolio-item{margin:0 0 15px;right:0}
+	#portfolio .portfolio-item 
 	.portfolio-link{display:block;position:relative;max-width:400px;margin:0 auto}
 	#portfolio .portfolio-item .portfolio-link 
 	.portfolio-hover{background:rgba(254,209,54,.9);
@@ -37,20 +38,25 @@ Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 	#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover{opacity:1}
 	#portfolio .portfolio-item .portfolio-link .portfolio-hover 
 	.portfolio-hover-content
-	{position:absolute;width:100%;height:20px;font-size:20px;text-align:center;top:50%;margin-top:-12px; color:#fff}
-	#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i{margin-top:-12px}
+	{position:absolute;width:100%;height:20px;font-size:20px;text-align:center;top:50%;
+		margin-top:-12px; color:#fff}
+	#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content 
+	i{margin-top:-12px}
 	#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content 
 	h3,
 	#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content 
 	h4{margin:0}
-	#portfolio .portfolio-item .portfolio-caption{max-width:400px;margin:0 auto;background-color:#fff;text-align:center;padding:25px}
+	#portfolio .portfolio-item .portfolio-caption{max-width:400px;margin:0 auto;background-color:#fff;
+		text-align:center;padding:25px}
 	#portfolio .portfolio-item .portfolio-caption 
 	h4{text-transform:none;margin:0}
 	#portfolio .portfolio-item .portfolio-caption 
-	p{font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;font-size:16px;margin:0}
+	p{font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;font-style:italic;
+	font-size:16px;margin:0}
 	#portfolio *{z-index:2}@media (min-width:767px){#portfolio .portfolio-item{margin:0 0 30px}}
 	.timeline{list-style:none;padding:0;position:relative}
-	.timeline:before{top:0;bottom:0;position:absolute;content:"";width:2px;background-color:#f1f1f1;left:40px;margin-left:-1.5px}.timeline>li{margin-bot
+	.timeline:before{top:0;bottom:0;position:absolute;content:"";width:2px;background-color:#f1f1f1;
+	left:40px;margin-left:-1.5px}.timeline>li{margin-bot
 	.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{background-image:none}
 	.btn-primary.disabled,.btn-primary[disabled],
 	fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,
