@@ -4,6 +4,9 @@ body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Aria
 a:hover,a:focus,a:active,a.active{color:#fec503}
 h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Neue",
 Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
+
+
+
 .img-centered{margin:0 auto}
 .bg-light-gray{background-color:#f7f7f7}
 .bg-darkest-gray{background-color:#222}
@@ -140,7 +143,7 @@ Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 		.team-member h4{margin-top:25px;margin-bottom:0;text-transform:none}.team-member p{margin-top:0}aside
 		.clients img{margin:50px auto}section#contact{background-color:#222;
 		background-image:url(../img/map-image.png);background-position:center;background-repeat:no-repeat}
-		section#contact .section-heading{color:#fff}section#contact .form-group{margin-bottom:25px}
+		section#contact .section-heading{color:#000000}section#contact .form-group{margin-bottom:25px}
 		section#contact .form-group input,section#contact .form-group textarea{padding:20px}
 		section#contact .form-group input.form-control{height:auto}section#contact .form-group 
 	textarea.form-control{height:236px}section#contact .form-control:focus{border-color:#fed136;box-shadow:none}
