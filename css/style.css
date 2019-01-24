@@ -85,6 +85,7 @@ a:active {
   -webkit-flex-flow: row wrap;
   justify-content: center;
   height: 85vh;
+  font-family: "gotham", Arial, sans-serif;
 }
 
 .about-me {
