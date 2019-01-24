@@ -18,14 +18,6 @@
   font-style: normal;
 }
 
-body {
-  font-family: "gotham", Arial, sans-serif;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 1.7;
-  color: #828282;
-  background: #fff;
-}
 
 a:link {
   text-decoration: none;
@@ -61,6 +53,7 @@ a:active {
   margin-top: 40px;
   font-family: "gotham", Arial, sans-serif;
   text-transform: uppercase;
+  font-weight: bold;
   color: #00aeef;
   line-height: 30px;
   font-weight: bold;
@@ -95,7 +88,7 @@ a:active {
   font-family: "gotham", Arial, sans-serif;
   color: #828282;
   line-height: 25px;
-  font-weight: lighter;
+  font-weight: normal;
   font-size: 20px;
   text-align: left;
 }
