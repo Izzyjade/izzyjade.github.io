@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'gotham';
-  src: url("./fonts/gothammedium.otf");
+  src: url("./fonts/GothamMedium.otf");
   font-weight: bold;
   font-style: normal;
 }
@@ -68,7 +68,6 @@ a:active {
   text-align: center;
 }
 
-.html{}
 .body{
   height: 100%;
 }
@@ -96,7 +95,7 @@ a:active {
   font-family: "gotham", Arial, sans-serif;
   color: #828282;
   line-height: 25px;
-  font-weight: normal;
+  font-weight: lighter;
   font-size: 20px;
   text-align: left;
 }
