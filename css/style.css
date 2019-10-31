@@ -61,6 +61,14 @@ a:active {
   text-align: center;
 }
 
+.textlinks {
+ background: #fff;
+  height: 100%;
+  font-family: "gotham", Arial, sans-serif;
+  font-weight: lighter;
+  color: #00aeef;
+}
+
 .body{
   height: 100%;
 }
